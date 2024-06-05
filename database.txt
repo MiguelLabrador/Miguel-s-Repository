@@ -1,0 +1,108 @@
+Emisor: miguel.labrador@pymail.com
+Destinatario: hhrr@pymail.com
+Asunto: Alta empleado
+Cuerpo: Buenos días, Nos informan sobre el alta del empleado Juan Rodríguez, por favor. Muchas gracias de antemano.
+Estado: No leído
+
+Emisor: miguel.labrador@pymail.com
+Destinatario: admin@pymail.com
+Asunto: Claves laptop
+Cuerpo: Buenas tardes, Necesito me faciliten las claves para poder iniciar sesión en mi PC. Gracias.
+Estado: No leído
+
+Emisor: ops@pymail.com
+Destinatario: miguel.labrador@pymail.com
+Asunto: Retraso salida camiones
+Cuerpo: Buenas tardes Miguel, El jefe de la nave nos comenta que se han producido retrasos en las salidas de los camiones de la tarde. ¿Nos podrías indicar que ha ocurrido? Muchas gracias.
+Estado: No leído
+
+Emisor: comercial@pymail.com
+Destinatario: miguel.labrador@pymail.com
+Asunto: Nuevo cliente
+Cuerpo: Buenos días Miguel, A partir de mañana incorporamos un nuevo cliente en la ruta de reparto BCN-ESTE. Por favor indica al equipo que hablen con los dos conductores de la ruta que mañana tras descargar en la navde de Alella pasarán por la nave de Mataró de Grifols.
+Estado: No leído
+
+Emisor: comercial@pymail.com
+Destinatario: accounting@pymail.com
+Asunto: Facturación nuevo cliente Mataró
+Cuerpo: Buenos días team! Por favor necesitaría saber como facturaremos el nuevo cliente de Mataró para poder añadir las intrucciones en el albarán de entrega. Gràcies.
+Estado: No leído
+
+Emisor: comercial@pymail.com
+Destinatario: joan.medina@pymail.com
+Asunto: Cambios en la ruta BCN-ESTE
+Cuerpo: Bona tarda Joan, No sé si saps però hem afegit un nou client a la ruta. L'equip ja està avisat i quedo a l'espera del departament financer que ens indiquin com facturarem aquestes entregues per tal de poder afegir-ho al albarà. Salut!!!
+Estado: No leído
+
+Emisor: miguel.labrador@pymail.com
+Destinatario: ops@pymail.com
+Asunto: Retraso salida camiones
+Cuerpo: Buenos días, Efectivamente se produjeron retrasos debido a la previsión de cortes en el tráfico. Los camiones esperaron hasta que la Guardia Urbana oficializó la notícia.
+Estado: No leído
+
+Emisor: accounting@pymail.com
+Destinatario: comercial@pymail.com
+Asunto: Facturación nuevo cliente Mataró
+Cuerpo: Buenos días, Tras el acuerdo con el cliente abonará la transferencia a 30 días.
+Estado: No leído
+
+Emisor: joan.medina@pymail.com
+Destinatario: comercial@pymail.com
+Asunto: Cambios en la ruta BCN-ESTE
+Cuerpo: Bon dia, OK! Copiat.
+Estado: No leído
+
+Emisor: miguel.labrador@pymail.com
+Destinatario: comercial@pymail.com
+Asunto: Try to pop
+Cuerpo: Try to pop
+Estado: No leído
+
+Emisor: miguel.labrador@pymail.com
+Destinatario: accounting@pymail.com
+Asunto: Try to pop
+Cuerpo: Try to pop
+Estado: No leído
+
+Emisor: miguel.labrador@pymail.com
+Destinatario: ops@pymail.com
+Asunto: Try to pop
+Cuerpo: Try to pop
+Estado: No leído
+
+Emisor: miguel.labrador@pymail.com
+Destinatario: joan.medina@pymail.com
+Asunto: Try to pop
+Cuerpo: Try to pop
+Estado: No leído
+
+Emisor: miguel.labrador@pymail.com
+Destinatario: admin@pymail.com
+Asunto: Try to pop
+Cuerpo: Try to pop
+Estado: No leído
+
+Emisor: miguel.labrador@pymail.com
+Destinatario: hhrr@pymail.com
+Asunto: Try to pop
+Cuerpo: Try to pop
+Estado: No leído
+
+Emisor: miguel.labrador@pymail.com
+Destinatario: info@pymail.com
+Asunto: Try to pop
+Cuerpo: Try to pop
+Estado: No leído
+
+Emisor: info@pymail.com
+Destinatario: miguel.labrador@pymail.com
+Asunto: Try to pop
+Cuerpo: Try to pop
+Estado: No leído
+
+Emisor: ops@pymail.com
+Destinatario: miguel.labrador@pymail.com
+Asunto: Retraso salida camiones
+Cuerpo: Muchas gracias por la información Miguel! No teníamos constancia de esta afectación al tráfico. Para mejorar la eficiencia y poder estar alineados, por favor, agradeceríamos si nos pudierais notificar al momento. Saludos.
+Estado: No leído
+
